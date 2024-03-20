@@ -13,4 +13,4 @@
 :x: 5.0 wymaganie 5 [Link do commita 5]()
 
 
-Kod: (https://github.com/KubaPlesniak/E-biznes/tree/835967e69d6ff9268b4999ade79355c62c217412/zad%201)
+Kod: [zad 1 Docker](https://github.com/KubaPlesniak/E-biznes/tree/835967e69d6ff9268b4999ade79355c62c217412/zad%201)
